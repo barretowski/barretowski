@@ -8,6 +8,9 @@
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=barretowski&theme=gotham)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">  
 <a href="www.linkedin.com/in/phbarreto/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
