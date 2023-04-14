@@ -16,7 +16,7 @@
   
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=php,typescript,azure,nodejs,vue,javascript,cpp,cs,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,typescript,azure,nodejs,vue,javascript,c,cpp,cs,java&perline=10)](https://skillicons.dev)
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
