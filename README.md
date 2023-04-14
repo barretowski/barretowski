@@ -16,14 +16,14 @@
   
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=php,typescript,azure,node,vue,javascript,c++,c,c#,java&perline=5)](https://skillicons.dev)
+<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)&nbsp;
-![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)&nbsp;
+![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)&nbsp; -->
 
 
 <!--   <div align="center">
