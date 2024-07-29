@@ -12,8 +12,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
-### Main skillss:
-[![My Skills](https://skillicons.dev/icons?i=php,typescript,azure,nodejs,vue,javascript,c,cpp,cs,java&perline=10)](https://skillicons.dev)
+### Main skills:
+[![My Skills](https://skillicons.dev/icons?i=php,python,typescript,aws,azure,nodejs,vue,javascript,c,cpp,cs,java&perline=10)](https://skillicons.dev)
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
