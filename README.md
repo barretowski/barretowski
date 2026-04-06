@@ -64,14 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barretowski&theme=darkhub&no-frame=true&margin-w=8&margin-h=8"/>
-</div>](https://github-profile-trophy.vercel.app/?username=barretowski&theme=onedark&no-frame=true&margin-w=8)
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=barretowski&label=Profile+Views&color=00bfbf&style=flat-square"/>
 </div>
