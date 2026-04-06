@@ -66,9 +66,9 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
+[<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=barretowski&theme=darkhub&no-frame=true&margin-w=8&margin-h=8"/>
-</div>
+</div>](https://github-profile-trophy.vercel.app/?username=barretowski&theme=onedark&no-frame=true&margin-w=8)
 
 ---
 
